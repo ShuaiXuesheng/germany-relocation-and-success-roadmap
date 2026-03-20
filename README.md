@@ -31,6 +31,18 @@ Mastering German bureaucracy and building a secure future.
 * **Wealth Building:** Setting up **saving plans (ETFs)** for long-term stability.
 * [**Financial Roadmap: From Arrival to Investing**](https://prepareforgermany.com/en/finances)
 
+## 🏛️ Official Framework vs. Practical Reality
+
+While the following government portals provide the legal basis for relocation, their information is often general and may lag behind recent market changes (e.g., actual processing times or current provider fees). 
+
+*   [Make it in Germany](https://www.make-it-in-germany.com) – Official portal for professionals.
+*   [Federal Foreign Office](https://www.auswaertiges-amt.de) – Visa regulations and requirements.
+*   [DAAD](https://www.daad.de) – Information for international students.
+*   [BAMF](https://www.bamf.de) – Federal Office for Migration.
+
+**Why use this Roadmap?**
+The official sites tell you *what* the law says. My guides (linked in the phases above) show you *how* to actually get things done today—with real-time comparisons, updated costs, and step-by-step instructions that official manuals often miss.
+
 ---
 *Maintained by [PrepareforGermany](https://prepareforgermany.com/en/your-start-in-germany) – Empowering newcomers to build a successful and stress-free life in Germany.*
 
